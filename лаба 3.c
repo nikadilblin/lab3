@@ -33,7 +33,7 @@ int z2() {
 	printf("%d дюймов - это %-5.1f см\n", dym, result_1);
 	printf("%d пульгад - это %-5.1f см\n\n", pul, result_2);
 	return 0;
-
+}
 int z3() {
 	float a, b;
 	printf("Введите первое число: \n");
